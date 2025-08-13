@@ -24,5 +24,5 @@ It is designed to:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/math-question-generator.git
+git clone https://github.com/Rupesh023/math-question-generator.git
 cd math-question-generator
